@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/springframework/spring-jdbc/4.1.4.RELEASE/spring-jdbc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/springframework/spring-aop/4.1.4.RELEASE/spring-aop-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/springframework/spring-tx/4.1.4.RELEASE/spring-tx-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/springframework/spring-core/4.1.4.RELEASE/spring-core-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/springframework/spring-beans/4.1.4.RELEASE/spring-beans-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/springframework/spring-context/4.1.4.RELEASE/spring-context-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/springframework/batch/spring-batch-core/3.0.6.RELEASE/spring-batch-core-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/springframework/batch/spring-batch-infrastructure/3.0.6.RELEASE/spring-batch-infrastructure-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Maven/maven_local_repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Mybatis"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
